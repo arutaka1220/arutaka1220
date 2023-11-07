@@ -1,6 +1,3 @@
-#### こんにちはおはようございますおやすみなさい
-[Meron](https://www.meron.jp) の管理者してます！よろしくお願いします。
-
 [![wakatime time](https://wakatime.com/badge/user/747aa0e7-bb45-419a-84e2-930a365cf31d.svg)](https://wakatime.com/@747aa0e7-bb45-419a-84e2-930a365cf31d)
 
 ![arutaka1220's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arutaka1220&show_icons=true)
